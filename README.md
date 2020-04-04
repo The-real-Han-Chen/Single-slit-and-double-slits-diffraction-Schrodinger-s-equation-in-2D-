@@ -4,7 +4,7 @@ Visualizing single-slit and double-slits diffraction via solving Schrodinger's e
 _reminder_: make sure you have `ffmpeg` installed in the environment you are working with.
 
 1. single-slit diffraction in progress
-![single-slit demo](/derivations_and_demos/single_slit_in_progress.jpg)
+![single-slit demo](/derivations_and_demos/single_slit_in_progress_green.jpg)
 
 2. double-slit diffraction in progress
-![double-slit demo](/derivations_and_demos/double_slit_in_progress.jpg)
+![double-slit demo](/derivations_and_demos/double_slit_in_progress_green.jpg)
