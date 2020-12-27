@@ -8,4 +8,5 @@ _reminder_: make sure you have `ffmpeg` installed in the environment you are wor
 ![single-slit demo](https://raw.githubusercontent.com/The-real-Han-Chen/Single-slit-and-double-slits-diffraction-Schrodinger-s-equation-in-2D-/master/single_slit.gif)
 
 2. double-slit diffraction in progress
+
 ![double-slit demo](https://raw.githubusercontent.com/The-real-Han-Chen/Single-slit-and-double-slits-diffraction-Schrodinger-s-equation-in-2D-/master/double_slits.gif)
