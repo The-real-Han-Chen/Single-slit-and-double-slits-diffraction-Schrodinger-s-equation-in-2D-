@@ -4,7 +4,8 @@ Visualizing single-slit and double-slits diffraction via solving Schrodinger's e
 _reminder_: make sure you have `ffmpeg` installed in the environment you are working with.
 
 1. single-slit diffraction in progress
-![single-slit demo](/derivations_and_demos/single_slit_in_progress.jpg)
+
+![single-slit demo](https://raw.githubusercontent.com/The-real-Han-Chen/Single-slit-and-double-slits-diffraction-Schrodinger-s-equation-in-2D-/master/single_slit.gif)
 
 2. double-slit diffraction in progress
-![double-slit demo](/derivations_and_demos/double_slit_in_progress.jpg)
+![double-slit demo](https://raw.githubusercontent.com/The-real-Han-Chen/Single-slit-and-double-slits-diffraction-Schrodinger-s-equation-in-2D-/master/double_slits.gif)
